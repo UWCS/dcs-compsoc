@@ -6,3 +6,5 @@
 !.bashrc
 !scripts/
 !scripts/**
+!.vnc/
+!.vnc/**
