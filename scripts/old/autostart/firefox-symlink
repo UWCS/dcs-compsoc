@@ -1,5 +1,0 @@
-#!/bin/bash
-# ln -s /var/tmp/compsoc-firefox/ $HOME/.mozilla
-# ln -s /var/tmp/compsoc-firefox/.cache $HOME/.cache/mozilla/firefox
-
-mkdir -p /var/tmp/compsoc-firefox/.cache

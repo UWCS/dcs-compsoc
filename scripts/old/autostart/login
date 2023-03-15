@@ -1,8 +1,0 @@
-#!/bin/bash
-
-cd "$(dirname "$0")"
-
-~/scripts/autostart/mkvartmp
-~/scripts/autostart/firefox-symlink
-~/scripts/autostart/master-to-tmp
-~/scripts/nvidia-force-comp-pipeline/nvidia-force-comp-pipeline
