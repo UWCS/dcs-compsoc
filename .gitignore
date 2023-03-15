@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!.gitmodules
+!.xsession
+!.bashrc
+!scripts/
+!scripts/**
