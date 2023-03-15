@@ -7,4 +7,5 @@
 !scripts/
 !scripts/**
 !.vnc/
-!.vnc/**
+!.vnc/xstartup
+!.vnc/config
