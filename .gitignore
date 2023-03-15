@@ -9,3 +9,5 @@
 !.vnc/
 !.vnc/xstartup
 !.vnc/config
+!Pictures/
+!Pictures/**
